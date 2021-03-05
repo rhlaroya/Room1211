@@ -1,2 +1,3 @@
 # Room1211
-Andrew, Elias, Louis, Regae Gang gang gang gang gang gang
+Andrew, Elias, Louis, and Regae React Notes
+
